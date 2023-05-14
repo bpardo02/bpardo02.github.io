@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logotipo h1{
+    font-size: 0.5em;
+}
+
+.logotipo img{
+    width: 20px;
+}
+
+.list li{
+    width: 50px;
+    margin-left: 20px;
+    text-align: center;
+    align-self: center;
+}
+
+.list a{
+    padding: 0%;
+    margin: 0;
+    font-size: 1em;
+}
+
+.list{
+    width: 100%;
+}
+
+article{
+    padding-top: 100px;
+    height: 800px;
+}
+
+article p{
+    width: 80%;
+}
+
+section{
+    display: block;
+    height: 1480px;
+    padding-top: 30px;
+}
+.carduno{
+    display: block;
+}
+.carduno img{
+    width: 380px;
+    padding-top: 30px;
+}
+
+.carddos{
+    display: block;
+}
+
+.carddos img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section div{
+    margin-top: 20px;
+}
+
+.cardtres p{
+    text-align: justify;
+}
+
+.cardtres h2{
+    padding: 10px;
+}
+
+.valores h2{
+    padding: 10px;
+}
+
+.valores{
+    height: auto;
+}
+
+
+.flexicons{
+    display: block;
+    padding-bottom: 20px;
+}
+
+.flexicons div{
+    margin: auto;
+    width: 70%;
+    margin-top: 20px;
+}
+
+.data {
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.data h2{
+    padding: 10px;
+}
+
+.data p {
+    width: 85%;
+}
+
+.galeria {
+    height: auto;
+}
+
+.galeria h2{
+    padding: 20px;
+}
+
+.rowone {
+    padding: 0%;
+    display: block;
+}
+
+.rowone img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    transition: none;
+}
+
+.rowone img:hover{
+    transform: none;
+}
+
+
+.rowtwo{
+    display: block;
+    padding: 0%;
+}
+
+.rowtwo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    transition: none;
+}
+
+.rowtwo img:hover{
+    transform: none;
+}
+
+.form {
+    display: block;
+    height: auto;
+}
+
+.formflex{
+    display: block;
+}
+
+.left{
+    width: 100%;
+}
+
+
+.left img{
+    padding: 0;
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right{
+    width: 100%;
+}
+
+.right input{
+    width: 80%;
+}
+
+footer{
+    display: block;
+    height: auto;
+}
+
+.contacto{
+    width: 100%;
+    padding: 0;
+    text-align: center;
+}
+
+.info{
+    width: 100%;
+    padding: 0;
+}
+
+.info p{
+    padding: 0 30px;
+}
+
+.info img{
+    width: 100px;
+}
