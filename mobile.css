@@ -39,14 +39,14 @@ article p{
 
 section{
     display: block;
-    height: 1480px;
+    height: auto;
     padding-top: 30px;
 }
 .carduno{
     display: block;
 }
 .carduno img{
-    width: 380px;
+    width: 330px;
     padding-top: 30px;
 }
 
